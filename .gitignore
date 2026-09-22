@@ -1,0 +1,12 @@
+# WorkBuddy 项目工作目录（含本地记忆、会话数据）
+.workbuddy/
+
+# 抓取中间产物（每次运行重新生成）
+papers_raw.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 系统
+.DS_Store
